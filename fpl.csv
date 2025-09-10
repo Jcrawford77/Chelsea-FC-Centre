@@ -1,0 +1,676 @@
+player,club,cost,pos,sel%,form,pts
+M.Salah,Liverpool,14.5,MID,53.30%,0,344
+Mbeumo,Man Utd,8,MID,15.30%,0,236
+Palmer,Chelsea,10.5,MID,60.60%,0,214
+Isak,Newcastle,10.5,FWD,14.60%,0,211
+Wood,Nott'm Forest,7.5,FWD,13.80%,0,200
+Bowen,West Ham,8,FWD,18.60%,0,193
+Watkins,Aston Villa,9,FWD,24.10%,0,186
+Wissa,Brentford,7.5,FWD,5.20%,0,185
+Luis Díaz,Liverpool,8,MID,0.30%,0,183
+Haaland,Man City,14,FWD,23.10%,0,181
+Cunha,Man Utd,8,MID,8.80%,0,178
+B.Fernandes,Man Utd,9,MID,20.40%,0,174
+Semenyo,Bournemouth,7,MID,5.30%,0,165
+Rogers,Aston Villa,7,MID,11.10%,0,161
+J.Murphy,Newcastle,6.5,MID,2.80%,0,159
+Kluivert,Bournemouth,7,MID,2.10%,0,158
+Pickford,Everton,5.5,GKP,12.00%,0,158
+Iwobi,Fulham,6.5,MID,1.70%,0,156
+Gibbs-White,Nott'm Forest,7.5,MID,5.30%,0,154
+Gvardiol,Man City,6,DEF,16.40%,0,153
+Elanga,Newcastle,7,MID,9.20%,0,153
+Trossard,Arsenal,7,MID,0.70%,0,152
+Mateta,Crystal Palace,7.5,FWD,9.00%,0,150
+Sels,Nott'm Forest,5,GKP,20.70%,0,150
+Schade,Brentford,7,MID,0.70%,0,149
+Sarr,Crystal Palace,6.5,MID,5.40%,0,149
+Eze,Crystal Palace,7.5,MID,10.40%,0,148
+Raúl,Fulham,6.5,FWD,2.30%,0,147
+Mitoma,Brighton,6.5,MID,7.00%,0,145
+Milenković,Nott'm Forest,5.5,DEF,10.10%,0,145
+Strand Larsen,Wolves,6.5,FWD,5.20%,0,145
+Virgil,Liverpool,6,DEF,23.70%,0,143
+Szoboszlai,Liverpool,6.5,MID,2.10%,0,143
+Raya,Arsenal,5.5,GKP,17.00%,0,142
+Muñoz,Crystal Palace,5.5,DEF,9.00%,0,142
+Johnson,Spurs,7,MID,3.50%,0,137
+Enzo,Chelsea,6.5,MID,3.70%,0,135
+Henderson,Crystal Palace,5,GKP,6.50%,0,135
+Bruno G.,Newcastle,6.5,MID,1.70%,0,135
+Kerkez,Liverpool,6,DEF,7.80%,0,134
+Cucurella,Chelsea,6,DEF,18.80%,0,133
+Maddison,Spurs,7,MID,0.80%,0,133
+Delap,Chelsea,6.5,FWD,4.40%,0,132
+Damsgaard,Brentford,6,MID,1.20%,0,131
+Saliba,Arsenal,6,DEF,13.40%,0,130
+Barnes,Newcastle,6.5,MID,0.60%,0,130
+Murillo,Nott'm Forest,5.5,DEF,6.10%,0,130
+Amad,Man Utd,6.5,MID,3.30%,0,129
+Son,Spurs,8.5,MID,0.80%,0,129
+Evanilson,Bournemouth,7,FWD,2.10%,0,128
+Aina,Nott'm Forest,5,DEF,16.10%,0,128
+Saka,Arsenal,10,MID,17.40%,0,127
+Rice,Arsenal,6.5,MID,7.60%,0,127
+Collins,Brentford,5,DEF,1.90%,0,127
+Gakpo,Liverpool,7.5,MID,6.70%,0,127
+Sánchez,Chelsea,5,GKP,22.00%,0,126
+João Pedro,Chelsea,7.5,FWD,55.40%,0,126
+Souček,West Ham,6,MID,1.00%,0,126
+Martinelli,Arsenal,7,MID,1.50%,0,125
+Welbeck,Brighton,6.5,FWD,5.40%,0,125
+Aït-Nouri,Man City,6,DEF,20.80%,0,125
+Gordon,Newcastle,7.5,MID,1.60%,0,124
+Mitchell,Crystal Palace,5,DEF,1.20%,0,123
+Mac Allister,Liverpool,6.5,MID,1.60%,0,122
+Tielemans,Aston Villa,6,MID,2.20%,0,121
+N.Jackson,Chelsea,6.5,FWD,0.10%,0,121
+Mykolenko,Everton,5,DEF,1.70%,0,121
+Madueke,Arsenal,7,MID,1.40%,0,120
+Onana,Man Utd,5,GKP,0.10%,0,120
+Schär,Newcastle,5.5,DEF,2.50%,0,118
+Wan-Bissaka,West Ham,4.5,DEF,28.00%,0,118
+Gabriel,Arsenal,6,DEF,19.20%,0,117
+Kulusevski,Spurs,6.5,MID,0.00%,0,117
+Ødegaard,Arsenal,8,MID,3.30%,0,116
+Guéhi,Crystal Palace,4.5,DEF,13.20%,0,116
+Leno,Fulham,5,GKP,1.70%,0,115
+Burn,Newcastle,5,DEF,3.40%,0,115
+J.Timber,Arsenal,5.5,DEF,2.30%,0,114
+Lacroix,Crystal Palace,5,DEF,1.10%,0,114
+Ndiaye,Everton,6.5,MID,13.10%,0,114
+Smith Rowe,Fulham,6,MID,1.10%,0,114
+A.Becker,Liverpool,5.5,GKP,11.10%,0,112
+Martinez,Aston Villa,5,GKP,0.50%,0,111
+O.Dango,Bournemouth,6,MID,0.20%,0,111
+Ederson M.,Man City,5.5,GKP,3.50%,0,111
+Bernardo,Man City,6.5,MID,0.80%,0,110
+Colwill,Chelsea,5,DEF,0.90%,0,109
+Kovačić,Man City,6,MID,0.00%,0,109
+N.Williams,Nott'm Forest,5,DEF,9.20%,0,109
+Solanke,Spurs,7.5,FWD,5.70%,0,108
+Nørgaard,Arsenal,5.5,MID,0.70%,0,107
+Anderson,Nott'm Forest,5.5,MID,7.10%,0,107
+Arrizabalaga,Arsenal,4.5,GKP,1.00%,0,106
+Robinson,Fulham,5,DEF,2.10%,0,106
+Konaté,Liverpool,5.5,DEF,2.90%,0,106
+Savinho,Man City,7,MID,1.80%,0,106
+Garnacho,Man Utd,6.5,MID,0.20%,0,106
+Tonali,Newcastle,5.5,MID,2.10%,0,106
+Kudus,Spurs,6.5,MID,24.50%,0,106
+Tarkowski,Everton,5.5,DEF,7.00%,0,105
+Foden,Man City,8,MID,1.50%,0,105
+Livramento,Newcastle,5,DEF,3.80%,0,105
+Neto,Chelsea,7,MID,4.10%,0,104
+Konsa,Aston Villa,4.5,DEF,23.90%,0,103
+Verbruggen,Brighton,4.5,GKP,8.20%,0,103
+Hudson-Odoi,Nott'm Forest,6,MID,1.40%,0,103
+Minteh,Brighton,6,MID,1.30%,0,102
+Pope,Newcastle,5,GKP,3.50%,0,102
+Hall,Newcastle,5.5,DEF,2.30%,0,102
+Joelinton,Newcastle,6,MID,0.50%,0,99
+Caicedo,Chelsea,5.5,MID,5.90%,0,98
+Pedro Porro,Spurs,5.5,DEF,17.00%,0,98
+Havertz,Arsenal,7.5,FWD,1.20%,0,97
+Gündoğan,Man City,6.5,MID,0.20%,0,97
+Georginio,Brighton,6,MID,1.00%,0,95
+Adama,Fulham,5.5,MID,0.30%,0,95
+Dalot,Man Utd,4.5,DEF,2.40%,0,95
+Rashford,Man Utd,7,MID,0.10%,0,95
+Zabarnyi,Bournemouth,5,DEF,0.20%,0,94
+Lewis-Potter,Brentford,5,DEF,0.50%,0,94
+Chalobah,Chelsea,5,DEF,1.00%,0,93
+McNeil,Everton,6,MID,0.50%,0,93
+José Sá,Wolves,4.5,GKP,2.30%,0,93
+Merino,Arsenal,6,MID,0.70%,0,92
+Gravenberch,Liverpool,5.5,MID,0.10%,0,92
+Robertson,Liverpool,6,DEF,1.60%,0,91
+Rúben,Man City,5.5,DEF,2.70%,0,90
+Bellegarde,Wolves,5.5,MID,0.10%,0,90
+Digne,Aston Villa,4.5,DEF,1.80%,0,89
+Hinshelwood,Brighton,5.5,MID,0.10%,0,89
+Gana,Everton,5.5,MID,0.10%,0,89
+Branthwaite,Everton,5.5,DEF,1.80%,0,88
+Doku,Man City,6.5,MID,1.10%,0,88
+Mazraoui,Man Utd,5,DEF,0.50%,0,88
+Tavernier,Bournemouth,5.5,MID,0.40%,0,87
+Van Hecke,Brighton,4.5,DEF,1.20%,0,87
+Baleba,Brighton,5,MID,5.10%,0,87
+Beto,Everton,5.5,FWD,10.50%,0,87
+C.Jones,Liverpool,5.5,MID,0.10%,0,87
+Gomes,Wolves,5.5,MID,0.10%,0,87
+Muniz,Fulham,5.5,FWD,2.10%,0,86
+Sancho,Man Utd,6,MID,0.10%,0,86
+Cook,Bournemouth,5,MID,0.00%,0,82
+Kilman,West Ham,4.5,DEF,0.30%,0,82
+Andreas,Fulham,5.5,MID,0.40%,0,81
+Harrison,Leeds,5.5,MID,0.20%,0,81
+Matheus N.,Man City,5.5,DEF,0.50%,0,81
+L.Paquetá,West Ham,6,MID,1.20%,0,80
+Toti,Wolves,4.5,DEF,0.20%,0,79
+McGinn,Aston Villa,5.5,MID,0.70%,0,78
+Wilson,Fulham,5.5,MID,1.20%,0,78
+Højlund,Man Utd,6.5,FWD,0.70%,0,78
+Cash,Aston Villa,4.5,DEF,1.80%,0,76
+Christie,Bournemouth,5,MID,0.20%,0,76
+Emerson,West Ham,4.5,DEF,0.20%,0,76
+Buonanotte,Brighton,5,MID,0.20%,0,75
+Bassey,Fulham,4.5,DEF,0.50%,0,75
+Doherty,Wolves,4.5,DEF,0.20%,0,75
+Ayari,Brighton,5,MID,0.20%,0,74
+Janelt,Brentford,5,MID,0.00%,0,73
+Marmoush,Man City,8.5,MID,12.40%,0,73
+Trippier,Newcastle,5,DEF,1.80%,0,72
+Tosin,Chelsea,4.5,DEF,0.90%,0,71
+P.M.Sarr,Spurs,5,MID,2.60%,0,71
+Areola,West Ham,4.5,GKP,5.20%,0,69
+Richards,Crystal Palace,4.5,DEF,1.50%,0,68
+De Ligt,Man Utd,5,DEF,1.30%,0,68
+Martinez,Man Utd,5,DEF,0.30%,0,68
+Hughes,Crystal Palace,5,MID,0.10%,0,67
+Yates,Nott'm Forest,5,MID,0.10%,0,67
+Nwaneri,Arsenal,5.5,MID,0.30%,0,66
+J.Ramsey,Aston Villa,5.5,MID,0.60%,0,66
+Darwin,Liverpool,6.5,FWD,0.50%,0,66
+Lewis,Man City,5,DEF,0.70%,0,66
+Vicario,Spurs,5,GKP,3.80%,0,66
+Onana,Aston Villa,5,MID,1.60%,0,65
+O'Brien,Everton,5,DEF,0.50%,0,65
+Zirkzee,Man Utd,6,FWD,0.50%,0,64
+Estupiñan,Brighton,4.5,DEF,0.10%,0,63
+Van den Berg,Brentford,4.5,DEF,0.40%,0,62
+Guedes,Wolves,5.5,MID,0.00%,0,62
+Akanji,Man City,5.5,DEF,0.80%,0,61
+André,Wolves,5.5,MID,0.10%,0,61
+Gusto,Chelsea,5,DEF,1.80%,0,60
+Nkunku,Chelsea,6,MID,0.20%,0,60
+Adingra,Sunderland,5.5,MID,1.80%,0,60
+Veltman,Brighton,4.5,DEF,0.30%,0,59
+Enciso,Brighton,5.5,MID,0.10%,0,59
+Adams,Bournemouth,5,MID,0.20%,0,58
+Lerma,Crystal Palace,5,MID,0.10%,0,58
+Maatsen,Aston Villa,4.5,DEF,0.90%,0,57
+Kamara,Aston Villa,5,MID,0.20%,0,57
+Smith,Bournemouth,4.5,DEF,0.20%,0,57
+Sessegnon,Fulham,5.5,MID,0.10%,0,57
+Lukić,Fulham,5,MID,0.10%,0,56
+Pau,Aston Villa,4.5,DEF,0.50%,0,55
+James,Chelsea,5.5,DEF,5.00%,0,54
+Dominguez,Nott'm Forest,5,MID,0.00%,0,54
+Todibo,West Ham,4.5,DEF,0.10%,0,54
+Nketiah,Crystal Palace,5.5,FWD,0.70%,0,53
+Berge,Fulham,5,MID,0.10%,0,53
+Brooks,Bournemouth,5,MID,0.10%,0,52
+Wieffer,Brighton,5,MID,0.10%,0,52
+Jota,Nott'm Forest,5.5,MID,0.10%,0,52
+S.Bueno,Wolves,4.5,DEF,0.10%,0,52
+Andersen,Fulham,4.5,DEF,2.30%,0,51
+Spence,Spurs,4.5,DEF,0.90%,0,51
+Ward-Prowse,West Ham,6,MID,0.40%,0,51
+White,Arsenal,5.5,DEF,0.80%,0,50
+O'Riley,Brighton,5.5,MID,0.10%,0,50
+Bissouma,Spurs,5.5,MID,0.10%,0,50
+Munetsi,Wolves,5.5,MID,0.00%,0,50
+Tete,Fulham,4.5,DEF,0.20%,0,49
+Ugarte,Man Utd,5,MID,0.20%,0,49
+Romero,Spurs,5,DEF,2.70%,0,49
+Bentancur,Spurs,5.5,MID,0.10%,0,49
+Keane,Everton,4.5,DEF,0.30%,0,48
+Maguire,Man Utd,4.5,DEF,0.70%,0,48
+Casemiro,Man Utd,5.5,MID,0.20%,0,48
+Mings,Aston Villa,4.5,DEF,0.70%,0,47
+Bailey,Aston Villa,5.5,MID,0.50%,0,47
+Pinnock,Brentford,4.5,DEF,0.30%,0,47
+Castagne,Fulham,4.5,DEF,0.20%,0,46
+Willock,Newcastle,5,MID,0.10%,0,46
+Kelleher,Brentford,4.5,GKP,16.50%,0,45
+Gruda,Brighton,5.5,MID,0.10%,0,45
+Kamada,Crystal Palace,5,MID,0.00%,0,45
+Gray,Spurs,5,MID,0.20%,0,45
+Mavropanos,West Ham,4.5,DEF,0.10%,0,45
+Agbadou,Wolves,4.5,DEF,0.20%,0,45
+Barkley,Aston Villa,5,MID,0.20%,0,44
+Dúbravka,Burnley,4,GKP,29.80%,0,44
+Dunk,Brighton,4.5,DEF,1.20%,0,44
+Alcaraz,Everton,5.5,MID,0.20%,0,44
+Bergvall,Spurs,5.5,MID,0.20%,0,44
+Kiwior,Arsenal,5.5,DEF,0.10%,0,43
+Yarmoliuk,Brentford,5,MID,0.10%,0,43
+Tsimikas,Liverpool,5,DEF,0.10%,0,43
+Udogie,Spurs,4.5,DEF,2.30%,0,43
+G.Jesus,Arsenal,6.5,FWD,0.00%,0,42
+Lamptey,Brighton,4.5,DEF,0.40%,0,42
+Wharton,Crystal Palace,5,MID,0.60%,0,42
+Garner,Everton,5,MID,0.10%,0,42
+Mainoo,Man Utd,5,MID,0.80%,0,42
+Tel,Spurs,6.5,MID,0.10%,0,42
+Füllkrug,West Ham,6,FWD,3.40%,0,42
+R.Gomes,Wolves,4.5,DEF,0.10%,0,42
+Bradley,Liverpool,5,DEF,0.30%,0,41
+Zinchenko,Arsenal,5,DEF,0.30%,0,40
+Álvarez,West Ham,5,MID,0.20%,0,40
+Calafiori,Arsenal,5.5,DEF,0.70%,0,39
+Ajer,Brentford,4.5,DEF,0.20%,0,39
+Webster,Brighton,4.5,DEF,0.00%,0,39
+Jensen,Brentford,5,MID,0.10%,0,38
+Grealish,Everton,6.5,MID,3.00%,0,38
+Lewis-Skelly,Arsenal,5.5,DEF,4.50%,0,37
+Hee Chan,Wolves,6,MID,0.20%,0,37
+Roerslev,Brentford,4.5,DEF,0.10%,0,36
+Morato,Nott'm Forest,4.5,DEF,0.10%,0,36
+G.Rodriguez,West Ham,5,MID,0.10%,0,36
+Carvalho,Brentford,5,MID,0.30%,0,35
+Ortega Moreno,Man City,5,GKP,0.30%,0,35
+Richarlison,Spurs,6.5,FWD,1.40%,0,35
+Alex Moreno,Aston Villa,4,DEF,10.40%,0,34
+Malen,Aston Villa,5.5,MID,2.50%,0,34
+Devenny,Crystal Palace,4.5,MID,2.00%,0,34
+Longstaff,Leeds,5,MID,0.20%,0,34
+Odobert,Spurs,5.5,MID,0.00%,0,34
+Cairney,Fulham,5,MID,0.00%,0,33
+Elliott,Liverpool,5.5,MID,0.20%,0,33
+Summerville,West Ham,5.5,MID,0.00%,0,33
+Enes Ünal,Bournemouth,5.5,FWD,0.00%,0,32
+Awoniyi,Nott'm Forest,5.5,FWD,0.80%,0,32
+Van de Ven,Spurs,4.5,DEF,25.20%,0,32
+Senesi,Bournemouth,4.5,DEF,0.60%,0,31
+Diop,Fulham,4.5,DEF,0.10%,0,31
+O’Reilly,Man City,5,DEF,0.20%,0,31
+N.Gonzalez,Man City,6,MID,0.10%,0,31
+McAtee,Man City,5.5,MID,0.10%,0,31
+Gomez,Brighton,5,MID,0.10%,0,30
+Stones,Man City,5.5,DEF,0.60%,0,29
+Scarles,West Ham,4.5,DEF,0.00%,0,29
+Ferguson,Brighton,5.5,FWD,0.00%,0,28
+Davies,Spurs,4.5,DEF,0.10%,0,28
+Nelson,Arsenal,5,MID,0.10%,0,27
+Tuanzebe,Burnley,4,DEF,2.90%,0,27
+Kayode,Brentford,4.5,DEF,0.20%,0,27
+Phillips,Man City,5,MID,0.10%,0,27
+Scott,Bournemouth,5,MID,0.10%,0,26
+Fofana,Chelsea,4.5,DEF,0.30%,0,26
+Lavia,Chelsea,5,MID,0.10%,0,26
+Aké,Man City,5.5,DEF,0.60%,0,25
+Mount,Man Utd,6,MID,0.20%,0,25
+Dragusin,Spurs,4.5,DEF,0.00%,0,24
+Sinisterra,Bournemouth,5,MID,0.10%,0,23
+Esse,Crystal Palace,5,MID,0.20%,0,22
+Iroegbunam,Everton,5,MID,0.00%,0,22
+Yoro,Man Utd,4.5,DEF,1.40%,0,22
+Endo,Liverpool,5,MID,0.10%,0,21
+L.Miley,Newcastle,4.5,MID,2.90%,0,21
+Sangaré,Nott'm Forest,5,MID,0.10%,0,20
+F.Kadıoğlu,Brighton,4.5,DEF,0.20%,0,19
+Doucouré,Crystal Palace,5,MID,0.00%,0,19
+Travers,Everton,4.5,GKP,0.20%,0,19
+Osula,Newcastle,5.5,FWD,0.20%,0,19
+Moore,Spurs,5,MID,0.00%,0,19
+Igor,Brighton,4.5,DEF,0.00%,0,18
+Jörgensen,Chelsea,4.5,GKP,0.20%,0,18
+Clyne,Crystal Palace,4,DEF,0.70%,0,18
+Dewsbury-Hall,Everton,5,MID,3.80%,0,18
+Dorgu,Man Utd,4.5,DEF,6.60%,0,18
+Botman,Newcastle,5,DEF,0.50%,0,18
+Hill,Bournemouth,4,DEF,0.70%,0,17
+George,Chelsea,5,MID,0.10%,0,17
+Krafth,Newcastle,4.5,DEF,0.10%,0,17
+Kinsky,Spurs,4,GKP,2.80%,0,17
+Danso,Spurs,4.5,DEF,0.20%,0,16
+Patterson,Everton,4.5,DEF,0.10%,0,14
+Gomez,Liverpool,5,DEF,0.10%,0,14
+Khusanov,Man City,5.5,DEF,0.40%,0,14
+Walker,Burnley,4.5,DEF,2.00%,0,13
+J.Araujo,Bournemouth,4,DEF,1.30%,0,12
+L.Guilherme,West Ham,5,MID,0.00%,0,12
+Johnstone,Wolves,4.5,GKP,0.20%,0,12
+Buendía,Aston Villa,5.5,MID,0.20%,0,11
+Philip,Bournemouth,5,MID,0.10%,0,10
+Konak,Brentford,4.5,MID,0.20%,0,10
+King,Fulham,4.5,MID,0.70%,0,10
+Reed,Fulham,4.5,MID,0.30%,0,10
+Heaven,Man Utd,4,DEF,1.80%,0,10
+Thiago,Brentford,6,FWD,1.00%,0,9
+Steele,Brighton,4.5,GKP,0.50%,0,9
+M.França,Crystal Palace,4.5,MID,0.00%,0,9
+J.Cuenca,Fulham,4.5,DEF,0.00%,0,9
+Irving,West Ham,4.5,MID,0.30%,0,9
+Bentley,Wolves,4,GKP,0.90%,0,9
+A.García,Aston Villa,4,DEF,0.50%,0,8
+Maghoma,Brentford,4.5,MID,0.10%,0,8
+Bayindir,Man Utd,5,GKP,0.40%,0,8
+Antony,Man Utd,6,MID,0.10%,0,8
+Neto,Bournemouth,4.5,GKP,0.50%,0,7
+March,Brighton,6,MID,0.10%,0,7
+B.Badiashile,Chelsea,4.5,DEF,0.00%,0,7
+Mudryk,Chelsea,5,MID,0.00%,0,7
+Édouard,Crystal Palace,5,FWD,1.00%,0,7
+Chiesa,Liverpool,6.5,MID,0.10%,0,7
+Obi,Man Utd,4.5,FWD,2.80%,0,7
+Bogarde,Aston Villa,4,DEF,0.30%,0,6
+Milner,Brighton,5,MID,0.10%,0,6
+Collyer,Man Utd,4.5,MID,0.10%,0,6
+Boly,Nott'm Forest,4,DEF,0.60%,0,6
+Scarlett,Spurs,4.5,FWD,0.80%,0,6
+Coleman,Everton,4.5,DEF,0.20%,0,5
+Shaw,Man Utd,4.5,DEF,0.20%,0,5
+Winterburn,Bournemouth,4.5,MID,0.10%,0,4
+Henry,Brentford,4.5,DEF,0.20%,0,4
+Acheampong,Chelsea,4,DEF,0.30%,0,4
+Amass,Man Utd,4,DEF,0.20%,0,4
+Soler,Bournemouth,4,DEF,0.30%,0,3
+Ji-soo,Brentford,4,DEF,0.20%,0,3
+Nunes,Brentford,5,MID,0.00%,0,3
+Y.Chermiti,Everton,5,FWD,0.20%,0,3
+Rodrigo,Man City,6.5,MID,0.70%,0,3
+Bobb,Man City,5.5,MID,0.10%,0,3
+Marc Guiu,Sunderland,4.5,FWD,15.30%,0,3
+Lankshear,Spurs,4.5,FWD,0.20%,0,3
+Mosquera,Wolves,4.5,DEF,0.10%,0,3
+Valdimarsson,Brentford,4,GKP,1.30%,0,2
+Onyeka,Brentford,5,MID,0.00%,0,2
+Kporha,Crystal Palace,4,DEF,0.10%,0,2
+Agbinone,Crystal Palace,4.5,MID,0.10%,0,2
+Armstrong,Everton,4.5,MID,0.20%,0,2
+Godo,Fulham,4.5,MID,0.10%,0,2
+Fredricson,Man Utd,4,DEF,0.10%,0,2
+Malacia,Man Utd,4,DEF,0.30%,0,2
+Targett,Newcastle,4,DEF,0.60%,0,2
+Da Silva Moreira,Nott'm Forest,4.5,MID,0.20%,0,2
+Orford,West Ham,4.5,MID,0.10%,0,2
+Pedro Lima,Wolves,4,DEF,1.30%,0,2
+Silcott-Duberry,Bournemouth,4.5,MID,0.10%,0,1
+Meghoma,Brentford,4,DEF,0.20%,0,1
+Trevitt,Brentford,4.5,MID,0.00%,0,1
+Cashin,Brighton,4,DEF,0.00%,0,1
+Sarmiento,Brighton,5,MID,0.00%,0,1
+Chadi Riad,Crystal Palace,4,DEF,0.00%,0,1
+Danns,Liverpool,4.5,FWD,0.20%,0,1
+Vitor Reis,Man City,5,DEF,0.00%,0,1
+Echeverri,Man City,5.5,MID,0.00%,0,1
+Austin,Spurs,4,GKP,0.30%,0,1
+Casey,West Ham,4,DEF,0.40%,0,1
+Cornet,West Ham,5,MID,0.00%,0,1
+King,Wolves,4,GKP,1.90%,0,1
+Pond,Wolves,4,DEF,1.80%,0,1
+B.Traore,Wolves,5,MID,0.00%,0,1
+Hein,Arsenal,4,GKP,0.60%,0,0
+Setford,Arsenal,4,GKP,0.10%,0,0
+Clarke,Arsenal,4,DEF,0.60%,0,0
+Kacurri,Arsenal,4,DEF,0.20%,0,0
+Nichols,Arsenal,4,DEF,0.20%,0,0
+Mosquera,Arsenal,5.5,DEF,0.10%,0,0
+Fábio Vieira,Arsenal,5.5,MID,0.00%,0,0
+Zubimendi,Arsenal,5.5,MID,2.10%,0,0
+Kabia,Arsenal,4.5,MID,0.30%,0,0
+Sambi,Arsenal,4.5,MID,0.10%,0,0
+Gyökeres,Arsenal,9,FWD,25.90%,0,0
+M.Bizot,Aston Villa,4.5,GKP,0.30%,0,0
+Gauci,Aston Villa,4,GKP,0.50%,0,0
+Marschall,Aston Villa,4,GKP,0.00%,0,0
+Sousa,Aston Villa,4,DEF,0.30%,0,0
+Yasin,Aston Villa,4,DEF,0.20%,0,0
+Iling Jr,Aston Villa,5.5,MID,0.00%,0,0
+Barrenechea,Aston Villa,5,MID,0.00%,0,0
+Dobbin,Aston Villa,5,MID,0.10%,0,0
+Broggio,Aston Villa,4.5,MID,0.30%,0,0
+Dendoncker,Aston Villa,4.5,MID,0.40%,0,0
+Jimoh-Aloba,Aston Villa,4.5,MID,0.10%,0,0
+Young,Aston Villa,4.5,MID,0.70%,0,0
+Guessand,Aston Villa,6.5,MID,0.10%,0,0
+Redmond,Aston Villa,4.5,FWD,0.80%,0,0
+Weiss,Burnley,4.5,GKP,0.20%,0,0
+Green,Burnley,4,GKP,0.40%,0,0
+Hladký,Burnley,4,GKP,0.30%,0,0
+Roberts,Burnley,4.5,DEF,0.10%,0,0
+Delcroix,Burnley,4,DEF,0.40%,0,0
+Dodgson,Burnley,4,DEF,0.10%,0,0
+Ekdal,Burnley,4,DEF,0.20%,0,0
+Estève,Burnley,4,DEF,18.60%,0,0
+Hartman,Burnley,4,DEF,0.50%,0,0
+Humphreys,Burnley,4,DEF,0.10%,0,0
+Jordan,Burnley,4,DEF,0.20%,0,0
+Lucas Pires,Burnley,4,DEF,0.20%,0,0
+Sambo,Burnley,4,DEF,0.20%,0,0
+Sonne,Burnley,4,DEF,0.20%,0,0
+Worrall,Burnley,4,DEF,0.20%,0,0
+Anthony,Burnley,5.5,MID,0.10%,0,0
+Benson,Burnley,5.5,MID,0.00%,0,0
+Bruun Larsen,Burnley,5.5,MID,0.10%,0,0
+Boateng,Burnley,5,MID,0.10%,0,0
+Churlinov,Burnley,5,MID,0.00%,0,0
+Cullen,Burnley,5,MID,0.10%,0,0
+Edwards,Burnley,5,MID,0.10%,0,0
+Hannibal,Burnley,5,MID,0.20%,0,0
+Koleosho,Burnley,5,MID,0.00%,0,0
+Laurent,Burnley,5,MID,0.00%,0,0
+Tchaouna,Burnley,5,MID,0.00%,0,0
+A.Ramsey,Burnley,4.5,MID,11.00%,0,0
+Adewumi,Burnley,4.5,MID,0.10%,0,0
+Banel,Burnley,4.5,MID,0.00%,0,0
+Trésor,Burnley,4.5,MID,0.10%,0,0
+Ugochukwu,Burnley,5,MID,0.00%,0,0
+Flemming,Burnley,5.5,FWD,0.20%,0,0
+Amdouni,Burnley,5,FWD,0.10%,0,0
+Foster,Burnley,5,FWD,0.30%,0,0
+Barnes,Burnley,4.5,FWD,3.10%,0,0
+Obafemi,Burnley,4.5,FWD,0.50%,0,0
+Broja,Burnley,5.5,FWD,0.10%,0,0
+Petrović,Bournemouth,4.5,GKP,3.60%,0,0
+Dennis,Bournemouth,4,GKP,0.90%,0,0
+McKenna,Bournemouth,4,GKP,0.20%,0,0
+Paulsen,Bournemouth,4,GKP,0.10%,0,0
+Truffert,Bournemouth,4.5,DEF,0.90%,0,0
+Akinmboni,Bournemouth,4,DEF,0.30%,0,0
+Bevan,Bournemouth,4,DEF,0.20%,0,0
+Mepham,Bournemouth,4,DEF,0.20%,0,0
+Diakité,Bournemouth,4.5,DEF,0.10%,0,0
+Faivre,Bournemouth,4.5,MID,0.20%,0,0
+H.Traorè,Bournemouth,4.5,MID,0.30%,0,0
+Sadi,Bournemouth,4.5,MID,0.10%,0,0
+Adu-Adjei,Bournemouth,4.5,FWD,0.30%,0,0
+Kroupi.Jr,Bournemouth,4.5,FWD,1.10%,0,0
+Balcombe,Brentford,4,GKP,0.30%,0,0
+Cox,Brentford,4,GKP,0.20%,0,0
+Eyestone,Brentford,4,GKP,0.10%,0,0
+Arthur,Brentford,4,DEF,0.30%,0,0
+Fredrick,Brentford,4,DEF,0.20%,0,0
+Hickey,Brentford,4,DEF,0.60%,0,0
+Milambo,Brentford,5.5,MID,0.10%,0,0
+Henderson,Brentford,5,MID,0.30%,0,0
+Donovan,Brentford,4.5,MID,0.10%,0,0
+Peart-Harris,Brentford,4.5,MID,0.00%,0,0
+Morgan,Brentford,4.5,FWD,0.50%,0,0
+McGill,Brighton,4,GKP,0.40%,0,0
+Rushworth,Brighton,4,GKP,0.00%,0,0
+Scherpen,Brighton,4,GKP,0.00%,0,0
+Boscagli,Brighton,4.5,DEF,0.10%,0,0
+Coppola,Brighton,4.5,DEF,0.10%,0,0
+De Cuyper,Brighton,4.5,DEF,7.00%,0,0
+Slater,Brighton,4,DEF,0.20%,0,0
+Tasker,Brighton,4,DEF,0.20%,0,0
+Sima,Brighton,5.5,MID,0.00%,0,0
+Watson,Brighton,5,MID,0.00%,0,0
+Yalcouye,Brighton,5,MID,0.00%,0,0
+Knight,Brighton,4.5,MID,0.10%,0,0
+Mazilu,Brighton,4.5,MID,0.00%,0,0
+Moran,Brighton,4.5,MID,0.10%,0,0
+Tzimas,Brighton,5.5,FWD,0.10%,0,0
+Kostoulas,Brighton,5,FWD,0.50%,0,0
+Penders,Chelsea,4,GKP,0.00%,0,0
+Slonina,Chelsea,4,GKP,0.10%,0,0
+M.Sarr,Chelsea,4.5,DEF,0.10%,0,0
+Anselmino,Chelsea,4,DEF,0.10%,0,0
+Hato,Chelsea,5,DEF,0.30%,0,0
+Estêvão,Chelsea,6.5,MID,1.80%,0,0
+Gittens,Chelsea,6.5,MID,0.30%,0,0
+Andrey Santos,Chelsea,4.5,MID,0.30%,0,0
+D.Essugo,Chelsea,4.5,MID,0.10%,0,0
+Paez,Chelsea,4.5,MID,0.00%,0,0
+Benitez,Crystal Palace,4,GKP,0.40%,0,0
+Matthews,Crystal Palace,4,GKP,0.10%,0,0
+Sosa,Crystal Palace,5,DEF,0.10%,0,0
+Holding,Crystal Palace,4,DEF,0.10%,0,0
+Ahamada,Crystal Palace,4.5,MID,0.00%,0,0
+Ebiowei,Crystal Palace,4.5,MID,0.00%,0,0
+J.Rak-Sakyi,Crystal Palace,4.5,MID,0.10%,0,0
+Ozoh,Crystal Palace,4.5,MID,0.00%,0,0
+Rodney,Crystal Palace,4.5,MID,0.00%,0,0
+Umeh,Crystal Palace,4.5,MID,0.00%,0,0
+Marsh,Crystal Palace,4.5,FWD,0.30%,0,0
+Tyrer,Everton,4,GKP,0.10%,0,0
+Dixon,Everton,4,DEF,0.20%,0,0
+Welch,Everton,4,DEF,0.20%,0,0
+Aznou,Everton,4.5,DEF,0.10%,0,0
+Bates,Everton,4.5,MID,0.10%,0,0
+Ebere,Everton,4.5,MID,0.00%,0,0
+Heath,Everton,4.5,MID,0.00%,0,0
+Metcalfe,Everton,4.5,MID,0.00%,0,0
+Barry,Everton,6,FWD,0.80%,0,0
+Sherif,Everton,4.5,FWD,0.20%,0,0
+Benda,Fulham,4,GKP,0.00%,0,0
+Lecomte,Fulham,4,GKP,0.90%,0,0
+Amissah,Fulham,4,DEF,0.20%,0,0
+Harris,Fulham,4.5,MID,0.00%,0,0
+Meslier,Leeds,4.5,GKP,0.90%,0,0
+Cairns,Leeds,4,GKP,0.20%,0,0
+Darlow,Leeds,4,GKP,4.30%,0,0
+Perri,Leeds,4.5,GKP,0.30%,0,0
+Bogle,Leeds,4.5,DEF,0.40%,0,0
+Struijk,Leeds,4.5,DEF,0.40%,0,0
+Bijol,Leeds,4,DEF,0.20%,0,0
+Bornauw,Leeds,4,DEF,0.10%,0,0
+Byram,Leeds,4,DEF,0.30%,0,0
+Gudmundsson,Leeds,4,DEF,2.70%,0,0
+Rodon,Leeds,4,DEF,1.80%,0,0
+Schmidt,Leeds,4,DEF,0.20%,0,0
+Aaronson,Leeds,5.5,MID,0.10%,0,0
+Gnonto,Leeds,5.5,MID,0.40%,0,0
+James,Leeds,5.5,MID,0.60%,0,0
+Ampadu,Leeds,5,MID,0.10%,0,0
+Greenwood,Leeds,5,MID,0.10%,0,0
+Gruev,Leeds,5,MID,0.10%,0,0
+Ramazani,Leeds,5,MID,0.30%,0,0
+Tanaka,Leeds,5,MID,0.30%,0,0
+Crew,Leeds,4.5,MID,0.00%,0,0
+Gelhardt,Leeds,4.5,MID,0.10%,0,0
+Gyabi,Leeds,4.5,MID,0.10%,0,0
+Stach,Leeds,5,MID,0.30%,0,0
+Piroe,Leeds,5.5,FWD,2.40%,0,0
+Bamford,Leeds,5,FWD,2.40%,0,0
+Mateo Joseph,Leeds,5,FWD,0.10%,0,0
+Nmecha,Leeds,5,FWD,0.50%,0,0
+Mamardashvili,Liverpool,4.5,GKP,0.50%,0,0
+Pécsi,Liverpool,4,GKP,0.10%,0,0
+Woodman,Liverpool,4,GKP,0.10%,0,0
+Frimpong,Liverpool,6,DEF,30.40%,0,0
+Nallo,Liverpool,4,DEF,0.10%,0,0
+R.Williams,Liverpool,4,DEF,0.20%,0,0
+Ramsay,Liverpool,4,DEF,0.20%,0,0
+Wirtz,Liverpool,8.5,MID,34.90%,0,0
+Doak,Liverpool,5,MID,0.00%,0,0
+Bajcetic,Liverpool,4.5,MID,0.10%,0,0
+McConnell,Liverpool,4.5,MID,0.00%,0,0
+Morton,Liverpool,4.5,MID,0.00%,0,0
+Nyoni,Liverpool,4.5,MID,0.10%,0,0
+Ekitiké,Liverpool,8.5,FWD,13.00%,0,0
+Trafford,Man City,5,GKP,2.10%,0,0
+Bettinelli,Man City,4,GKP,0.20%,0,0
+Cherki,Man City,6.5,MID,7.70%,0,0
+Reijnders,Man City,5.5,MID,14.30%,0,0
+Nypan,Man City,5,MID,0.00%,0,0
+Harrison,Man Utd,4,GKP,0.00%,0,0
+Heaton,Man Utd,4,GKP,0.40%,0,0
+Mee,Man Utd,4,GKP,0.10%,0,0
+D.Leon,Man Utd,4.5,DEF,0.10%,0,0
+Fitzgerald,Man Utd,4.5,MID,0.00%,0,0
+J.Fletcher,Man Utd,4.5,MID,0.00%,0,0
+Kone,Man Utd,4.5,MID,0.10%,0,0
+Moorhouse,Man Utd,4.5,MID,0.00%,0,0
+Wheatley,Man Utd,4.5,FWD,0.20%,0,0
+Šeško,Man Utd,7.5,FWD,6.60%,0,0
+Gillespie,Newcastle,4,GKP,0.10%,0,0
+Odysseas,Newcastle,4,GKP,0.10%,0,0
+Ramsdale,Newcastle,5,GKP,0.80%,0,0
+Lascelles,Newcastle,4.5,DEF,0.10%,0,0
+A.Murphy,Newcastle,4,DEF,0.80%,0,0
+Ashby,Newcastle,4,DEF,0.20%,0,0
+Pivas,Newcastle,4,DEF,0.20%,0,0
+Thiaw,Newcastle,5,DEF,0.10%,0,0
+Antoñito C.,Newcastle,5,MID,0.00%,0,0
+Hayden,Newcastle,4.5,MID,0.00%,0,0
+Kuol,Newcastle,4.5,MID,0.10%,0,0
+White,Newcastle,4.5,MID,0.00%,0,0
+Neave,Newcastle,4.5,FWD,0.20%,0,0
+C.Miguel,Nott'm Forest,4,GKP,0.20%,0,0
+Turner,Nott'm Forest,4,GKP,0.50%,0,0
+Gunn,Nott'm Forest,4,GKP,1.30%,0,0
+David Carmo,Nott'm Forest,4.5,DEF,0.10%,0,0
+Jair Cunha,Nott'm Forest,4.5,DEF,0.10%,0,0
+O.Richards,Nott'm Forest,4.5,DEF,0.10%,0,0
+Abbott,Nott'm Forest,4,DEF,0.20%,0,0
+O'Brien,Nott'm Forest,5,MID,0.00%,0,0
+Stamenic,Nott'm Forest,4.5,MID,0.10%,0,0
+Ndoye,Nott'm Forest,6,MID,0.30%,0,0
+Igor Jesus,Nott'm Forest,6,FWD,0.90%,0,0
+Patterson,Sunderland,4.5,GKP,0.40%,0,0
+Moore,Sunderland,4,GKP,0.50%,0,0
+Nna Noukeu,Sunderland,4,GKP,0.20%,0,0
+Roefs,Sunderland,4.5,GKP,0.20%,0,0
+Ballard,Sunderland,4.5,DEF,0.20%,0,0
+Hume,Sunderland,4.5,DEF,0.20%,0,0
+Alese,Sunderland,4,DEF,0.00%,0,0
+Anderson,Sunderland,4,DEF,0.50%,0,0
+Cirkin,Sunderland,4,DEF,0.10%,0,0
+Hjelde,Sunderland,4,DEF,0.00%,0,0
+Huggins,Sunderland,4,DEF,0.20%,0,0
+Johnson,Sunderland,4,DEF,0.30%,0,0
+O'Nien,Sunderland,4,DEF,0.00%,0,0
+Pembele,Sunderland,4,DEF,0.20%,0,0
+Reinildo,Sunderland,4,DEF,7.30%,0,0
+Seelt,Sunderland,4,DEF,0.40%,0,0
+Masuaku,Sunderland,4,DEF,0.20%,0,0
+Alderete,Sunderland,4,DEF,0.30%,0,0
+Diarra,Sunderland,5.5,MID,0.10%,0,0
+Roberts,Sunderland,5.5,MID,0.10%,0,0
+Aleksić,Sunderland,5,MID,0.00%,0,0
+E.Le Fée,Sunderland,5,MID,0.50%,0,0
+Mundle,Sunderland,5,MID,0.00%,0,0
+Neil,Sunderland,5,MID,0.10%,0,0
+Poveda,Sunderland,5,MID,0.00%,0,0
+Rigg,Sunderland,5,MID,0.10%,0,0
+Sadiki,Sunderland,5,MID,0.00%,0,0
+Talbi,Sunderland,5,MID,0.20%,0,0
+Ba,Sunderland,4.5,MID,0.30%,0,0
+Browne,Sunderland,4.5,MID,0.10%,0,0
+Ekwah,Sunderland,4.5,MID,0.10%,0,0
+H.Jones,Sunderland,4.5,MID,0.10%,0,0
+Matete,Sunderland,4.5,MID,0.30%,0,0
+Triantis,Sunderland,4.5,MID,0.10%,0,0
+Xhaka,Sunderland,5,MID,2.70%,0,0
+Isidor,Sunderland,5.5,FWD,0.30%,0,0
+Mayenda,Sunderland,5.5,FWD,0.30%,0,0
+Abdullahi,Sunderland,4.5,FWD,0.70%,0,0
+Luís Hemir,Sunderland,4.5,FWD,0.20%,0,0
+Rusyn,Sunderland,4.5,FWD,0.20%,0,0
+Phillips,Spurs,4,DEF,0.10%,0,0
+Takai,Spurs,4,DEF,0.20%,0,0
+Vuskovic,Spurs,4,DEF,1.40%,0,0
+Solomon,Spurs,5.5,MID,0.00%,0,0
+Bryan,Spurs,5,MID,0.10%,0,0
+Min-hyeok,Spurs,4.5,MID,0.10%,0,0
+Olusesi,Spurs,4.5,MID,0.20%,0,0
+J.Palhinha,Spurs,5.5,MID,0.40%,0,0
+Foderingham,West Ham,4,GKP,0.70%,0,0
+Hegyi,West Ham,4,GKP,0.30%,0,0
+Hermansen,West Ham,4.5,GKP,0.30%,0,0
+Diouf,West Ham,4.5,DEF,6.70%,0,0
+N.Aguerd,West Ham,4.5,DEF,0.10%,0,0
+Walker-Peters,West Ham,4.5,DEF,0.50%,0,0
+Earthy,West Ham,4.5,MID,0.20%,0,0
+Potts,West Ham,4.5,MID,0.80%,0,0
+Marshall,West Ham,4.5,FWD,0.70%,0,0
+Wilson,West Ham,6,FWD,0.50%,0,0
+H.Bueno,Wolves,4.5,DEF,0.10%,0,0
+Hoever,Wolves,4,DEF,2.50%,0,0
+Meupiyou,Wolves,4,DEF,0.00%,0,0
+Møller Wolfe,Wolves,4.5,DEF,0.00%,0,0
